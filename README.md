@@ -60,11 +60,6 @@ ngrok http 8000
 - `api/` – App with API views and Telegram logic
 - `templates/` – HTML login template
 
-## 📌 Next Steps
-- Admin View for Telegram Users
-- Better HTML UI for Login
-- `/help` and `/about` Commands
-- Dockerize & Deploy
 
 ---
 
